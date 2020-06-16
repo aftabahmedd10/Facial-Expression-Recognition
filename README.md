@@ -8,3 +8,4 @@
   * Python3
   * numpy
   * Tensorflow & Keras
+  * OpenCv
